@@ -1,0 +1,2 @@
+# monolinux
+work linux
